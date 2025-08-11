@@ -1,0 +1,17 @@
+﻿# Виртуальное окружение
+venv/
+.venv/
+
+# Кеш Python
+__pycache__/
+*.py[cod]
+
+# Файлы окружения
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+.pytest_cache
